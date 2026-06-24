@@ -89,3 +89,62 @@ DB_PORT=5432
 Abishek Bhandari
 
 GitHub: https://github.com/abishekbhandari54321
+
+## 📸 Project Screenshots
+
+### 🏠 Homepage
+
+![Homepage](screenshots/Homepage.png)
+![Homepage_Featured_Products](screenshots/Homepage_Featured_Products.png)
+![Homepage_Footer_section](screenshots/Homepage_Footer_section.png)
+![After_Login_Homepage](screenshots/After_Login_Homepage.png)
+
+---
+
+### 📜 SignUp
+
+![SignUp Page](screenshots/SignUp.png)
+
+---
+
+### 📜 Login
+
+![Login](screenshots/Login.png)
+
+---
+
+### 📂 Product Categories Page
+
+![Products_Categories_Page](screenshots/Products_Categories.png)
+
+---
+
+### 📦 Product Details
+
+![Product Details](screenshots/Products.png)
+![Product Details](screenshots/Products2.png)
+![Product Details](screenshots/Products3.png)
+
+---
+
+### 🛒 Cart Page
+
+![Cart Page](screenshots/Cart_Page.png)
+
+---
+
+### 💳 Checkout Page
+
+![Checkout Page](screenshots/Checkout_Page.png)
+
+---
+
+### 📜 Order History
+
+![Order History](screenshots/Order_History.png)
+
+---
+
+### 🛒 Profile Page
+
+![Profile Page](screenshots/Profile.png)
